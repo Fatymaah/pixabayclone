@@ -200,16 +200,7 @@ section .discover {
     
   
 }
-section .discover-btn{
-    width: 30%;
-    height: 40px;
-    align-items: center;
-    background-color: #02B267;
-    border-radius: 50px;
-    text-align: center;
-    color: #fff;
-    border: none;
-}
+
 .last{
     display: flex;
     align-items: center;
